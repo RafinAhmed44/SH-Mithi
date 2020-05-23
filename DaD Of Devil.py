@@ -56,7 +56,7 @@ logo = """
 \033[1;96mAuthor  \033[1;93m: \033[1;92m Shymon Hasan
 \033[1;96mInstagram \033[1;93m: \033[1;Flow 👑RaFiN Chowdhury💫
 \033[1;96mFacebook \033[1;93m: \033[1; I.FueK.YoUr.MiNd.BnXD
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/RafinAhmed44
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps:https://github.com/RafinAhmed44
 \033[1;91m======================================="""
 
 def tik():
@@ -77,10 +77,10 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92m Shymon Hasan 
-\033[1;96mInstagram \033[1;93m: \033[1;Flow 👑RaFiN Chowdhury💫
+\033[1;96mAuthor \033[1;93m: \033[1;92mShymon Hasan
+\033[1;96mInstagram \033[1;93m: \033[1;Flow👑RaFiN Chowdhury💫
 \033[1;96mFacebook \033[1;93m: \033[1;92m I.FueK.YoUr.MiNd.BnXD
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/RafinAhmed44
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps:https://github.com/RafinAhmed44
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
@@ -413,4 +413,4 @@ def pilih_super():
 	menu()
 
 if __name__ == '__main__':
-	login()
+	login
