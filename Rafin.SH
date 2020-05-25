@@ -78,9 +78,9 @@ vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 os.system("clear")
 print "\x1b[0;31m⚔═══════════════════════════☠═══════════════════════════⚔"
-print  """\x1b[0;31m [¤] \x1b[0;32mASSALAM O ALAIKUM\x1b[0;31m  \033[1;96m   [¤] \x1b[0;37mWHATSAPP : 01874169944\x1b[1;95m  
-\033[1;93m [¤] \x1b[0;39mSTAY HOME\x1b[1;92m      [¤] \x1b[0;35mFACEBOOK : I.FueK.YoUr.MiNd.BnXD\x1b[1;96m  
-\033[1;93m [¤] \x1b[0;35mTOOLS BY Rafin\x1b[1;94m  [¤] \x1b[0;33mYOUTUBE  : FEELINGS CREATIONS\x1b[0;35m"""
+print  """\x1b[0;31m [¤] \x1b[0;32mASSALAM O ALAIKUM\x1b[0;31m  \033[1;96m   [¤] \x1b[0;39mWHATSAPP : 01874169944\x1b[1;92m  
+\033[1;93m [¤] \x1b[0;34mSTAY HOME\x1b[1;92m      [¤] \x1b[0;39mFACEBOOK : I.FueK.YoUr.MiNd.BnXD\x1b[1;93m  
+\033[1;93m [¤] \x1b[0;38mTOOLS BY Rafin\x1b[1;97m  [¤] \x1b[0;37mYOUTUBE  : FEELINGS CREATIONS\x1b[0;32m"""
 print " \x1b[1;93m⚔══════════════════════════☠═══════════════════════════⚔"
 
 CorrectUsername = "SHMITHILA"
