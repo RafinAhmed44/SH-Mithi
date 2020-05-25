@@ -79,7 +79,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\x1b[0;31m⚔═══════════════════════════☠═══════════════════════════⚔"
 print  """\x1b[0;31m [¤] \x1b[0;32mASSALAM O ALAIKUM\x1b[0;31m  \033[1;96m   [¤] \x1b[0;33mWHATSAPP : 01874169944\x1b[1;92m  
-\033[1;93m [¤] \x1b[0;34mSTAY HOME\x1b[1;92m      [¤] \x1b[0;30mFACEBOOK : I.FueK.YoUr.MiNd.BnXD\x1b[1;90m  
+\033[1;93m [¤] \x1b[0;34mSTAY HOME\x1b[1;92m      [¤] \x1b[0;31mFACEBOOK : I.FueK.YoUr.MiNd.BnXD\x1b[1;96m  
 \033[1;93m [¤] \x1b[0;35mTOOLS BY Rafin\x1b[1;95m  [¤] \x1b[0;37mYOUTUBE  : FEELINGS CREATIONS\x1b[0;36m"""
 print " \x1b[1;93m⚔══════════════════════════☠═══════════════════════════⚔"
 
