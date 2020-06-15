@@ -253,7 +253,7 @@ def informasi():
             raw_input('\n\x1b[1;91m[ \x1b[1;97mKembali \x1b[1;91m]')
             menu()
     else:
-        print '\x1b[1;91m[\xe2\x9c\x96] Done
+        print '\x1b[1;91m[\xe2\x9c\x96] Kumbil
         raw_input('\n\x1b[1;91m[ \x1b[1;97mKembali \x1b[1;91m]')
         menu()
 
